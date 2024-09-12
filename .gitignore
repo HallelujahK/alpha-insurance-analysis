@@ -1,0 +1,25 @@
+# Ignore virtual environments
+venv/
+
+# Ignore datasets
+data/
+
+# Ignore other system files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Ignore DVC metadata files
+.dvc/
+.cache/
+.cache.dvc/
+dvc.lock
+dvc.yaml
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db

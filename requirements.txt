@@ -1,0 +1,49 @@
+# Data manipulation and analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Statistical analysis
+scipy
+statsmodels
+
+# Hypothesis testing and statistical modeling
+scikit-learn
+
+# Machine Learning
+xgboost
+lightgbm
+
+# Data version control (DVC)
+dvc
+
+# Model interpretability
+shap
+lime
+
+# Version control and CI/CD tools
+pre-commit
+flake8
+
+# Jupyter Notebook for code exploration
+jupyterlab
+
+# GitHub Actions (for CI/CD)
+PyGithub
+
+# Logging and monitoring
+loguru
+
+# Environment variables management
+python-dotenv
+
+# Time series support (if needed)
+statsmodels
+
+# Others (optional for working with large datasets)
+pyarrow
+fastparquet
