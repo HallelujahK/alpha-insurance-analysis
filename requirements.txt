@@ -1,0 +1,65 @@
+# Data manipulation and analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Statistical analysis
+scipy
+statsmodels
+
+# Hypothesis testing and statistical modeling
+scikit-learn
+
+# Machine Learning
+xgboost
+lightgbm
+
+# Data version control (DVC)
+dvc
+
+# Model interpretability
+shap
+lime
+
+# Version control and CI/CD tools
+pre-commit
+flake8
+
+# Jupyter Notebook for code exploration
+jupyterlab
+
+# GitHub Actions (for CI/CD)
+PyGithub
+
+# Logging and monitoring
+loguru
+
+# Environment variables management
+python-dotenv
+
+# Time series support (if needed)
+statsmodels
+
+# Others (optional for working with large datasets)
+pyarrow
+fastparquet
+
+
+
+
+contourpy==1.3.0
+cycler==0.12.1
+fonttools==4.53.1
+kiwisolver==1.4.7
+packaging==24.1
+pillow==10.4.0
+pyparsing==3.1.4
+python-dateutil==2.9.0.post0
+pytz==2024.2
+six==1.16.0
+typing==3.7.4.3
+tzdata==2024.1
